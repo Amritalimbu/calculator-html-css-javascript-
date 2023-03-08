@@ -1,0 +1,35 @@
+*{
+    background-color: burlywood;
+}
+#h1{
+    text-align: center;
+    /* border: 1px solid black; */
+}
+
+.div{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    /* width: 300px; */
+    margin: 30px 485px;
+    background-color: darkseagreen;
+}
+#input{
+    width: 250px;
+    height: 30px;
+    font-size: large;
+    background-color: cornsilk;
+}
+.btn{
+    margin: 5px;
+    width: 54px;
+    height: 30px;
+    font-size: large;
+    background-color: cornsilk;
+}
+#del{
+    width: 258px;
+    height: 30px;
+    font-size: large;
+    background-color: cornsilk;
+}
